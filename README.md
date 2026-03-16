@@ -1,20 +1,20 @@
-# Personal Finance Tracker 💰
+# 💸 Professional Finance Tracker
 
-This is my ongoing project where I'm building a tool to track personal expenses and manage my budget. I started this project because I wanted to create a practical solution to keep an eye on my spending habits without unnecessary complexity.
+A modern, responsive web application to track your daily expenses and manage your budget effectively.
 
-### 🛠 Tech Stack
-- **Frontend:** React (for a responsive and clean UI)
-- **Backend:** Node.js + Express
-- **Database:** PostgreSQL
-- **Data Visualization:** Chart.js (to visualize spending patterns)
+## 🚀 Features
+* **Real-time Calculation:** Automatically updates your total balance as you add or remove transactions.
+* **Persistent Storage:** Uses `LocalStorage` to save your data even after refreshing or closing the browser.
+* **Modern UI:** Features a sleek dark mode design optimized for all devices.
+* **Clean Code:** Built with professional file structure (HTML, CSS, and JS separation).
 
-### 🎯 Key Features
-- CRUD operations to manage expenses and income.
-- Categorized spending (e.g., Groceries, Rent, Utilities).
-- Monthly summary reports to track financial progress.
+## 🛠️ Built With
+* **HTML5:** Semantic structure.
+* **CSS3:** Custom properties and modern layouts.
+* **JavaScript:** Functional logic and DOM manipulation.
 
-### 💡 Why this project?
-I built this as a learning project to deepen my understanding of Full Stack Development. I'm focusing on building a clean and functional architecture. Feedback or suggestions on the code are always welcome!
+## 📱 Preview
+You can view the live demo here: [https://abdelilahstack.github.io/finance-tracker/](https://abdelilahstack.github.io/finance-tracker/)
 
 ---
-*Under active development...* 🚀
+Developed by **Abdelilah** 🚀
