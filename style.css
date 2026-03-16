@@ -76,3 +76,10 @@ li {
     border-radius: 4px;
     cursor: pointer;
 }
+@media (max-width: 480px) {
+    .container {
+        width: 95%;
+        padding: 1rem;
+    }
+    h2 { font-size: 1.5rem; }
+}
